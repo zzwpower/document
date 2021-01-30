@@ -93,7 +93,7 @@ php think catch:install -r
 ```
 
 ## 打包前端项目
-打包前请先配置正是环境 API 地址。在项目的根目录下的`.env.production`文件配置
+打包前请先配置正式环境 API 地址。在项目的根目录下的`.env.production`文件配置
 ```
 # just a flag
 ENV = 'production'
